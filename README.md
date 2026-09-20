@@ -1,31 +1,5 @@
-````md
-<!-- ======================= HEADER ======================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:2563eb&height=220&section=header&text=BRYAN&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Software%20%7C%20Cybersecurity%20%7C%20Infrastructure&descAlignY=62&descSize=17&animation=fadeIn"
-    width="100%"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Software+Developer;Cybersecurity+Enthusiast;Networks+%26+Infrastructure;Building+Ideas+Into+Technology;Always+Learning+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-
-<a href="https://github.com/BAZTP">
-<img src="https://img.shields.io/badge/GitHub-BAZTP-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=BAZTP&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
-
-</p>
-
----
 
 # 👋 Hi, I'm Bryan
 
