@@ -389,8 +389,3 @@ width="100%"
 />
 
 </p>
-```
-
-**Esta es la versión que yo usaría para tu perfil actualmente.** Mantiene el contenido que ya tenías, pero añade la cabecera `BRYAN`, animación, TypeScript, Docker/VS Code, proyectos más completos, estadísticas de `ghstats.dev`, actividad 2026 y una presentación mucho más visual.
-
-Una cosa a tener en cuenta: la **Contribution Snake** necesita que tengas configurado el GitHub Action que genera `github-contribution-grid-snake-dark.svg`; si no lo tienes, esa parte aparecerá como imagen rota.
