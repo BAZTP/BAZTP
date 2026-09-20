@@ -1,13 +1,45 @@
+<!-- ========================= -->
 
+<!--        HEADER             -->
 
+<!-- ========================= -->
 
-# 👋 Hi, I'm Bryan
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:020617&height=220&section=header&text=BRYAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Software%20%7C%20Cybersecurity%20%7C%20Infrastructure&descAlignY=60&descSize=18" width="100%"/>
+</p>
 
-## 💻 Computer Science Engineer
+<p align="center">
+  <a href="https://github.com/BAZTP">
+    <img src="https://komarev.com/ghpvc/?username=BAZTP&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/BAZTP?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/BAZTP?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
 
-I'm a **Computer Science Engineer** passionate about software development, cybersecurity, infrastructure and networks.
+<h1 align="center">👋 Hi, I'm Bryan</h1>
 
-I enjoy creating practical projects, learning new technologies and solving real-world problems through technology.
+<h3 align="center">
+  💻 Computer Science Engineer
+</h3>
+
+<p align="center">
+  I build practical software solutions, cybersecurity laboratories,
+  infrastructure tools and technology-focused projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/BAZTP">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Development;Cybersecurity+%26+Ethical+Hacking;Networks+%26+Infrastructure;Monitoring+%26+Automation;Cloud+%26+DevOps;Always+Learning+%26+Building" alt="Typing SVG"/>
+  </a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Computer Science Engineer** passionate about technology, software development, cybersecurity, networks and infrastructure.
+
+I enjoy transforming ideas into practical projects, experimenting with new technologies and continuously improving my technical skills.
 
 ```text
 💻 Software Development
@@ -16,96 +48,80 @@ I enjoy creating practical projects, learning new technologies and solving real-
 ☁️ Cloud & DevOps
 📊 Monitoring & Automation
 🤖 Artificial Intelligence
-````
+```
 
----
+### 🚀 What I'm Focused On
 
-## 🚀 About Me
-
-* 🔭 Currently working on software and technology projects
+* 🔭 Building software and technology projects
 * 🌱 Learning Angular, Microservices, Docker and Cloud Computing
 * 💻 Developing applications with Java, Python and C#
-* 🛡️ Interested in Cybersecurity and Ethical Hacking
-* 🌐 Interested in Networks, Infrastructure and Monitoring
-* 📊 Interested in automation and monitoring systems
-* 🚀 Always learning and building new projects
+* 🛡️ Exploring Cybersecurity and Ethical Hacking
+* 🌐 Learning about Networks, Infrastructure and Monitoring
+* 📊 Creating monitoring and automation solutions
+* 🚀 Continuously learning through practical projects
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
-### Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,c" />
 </p>
 
-### Web Development
+## 🌐 Web Development
 
 <p align="center">
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts" />
 </p>
 
-### Databases
+## 🗄️ Databases
 
 <p align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" />
 </p>
 
-### Tools & Platforms
+## ⚙️ Tools & Platforms
 
 <p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio" />
 </p>
 
 ---
 
-## 🛡️ Cybersecurity
+# 🛡️ Cybersecurity
 
-I'm interested in cybersecurity and practical security testing.
+I'm interested in cybersecurity through **controlled laboratories, security testing and defensive analysis**.
 
-### Areas of Interest
+### 🔐 Areas of Interest
 
-* 🔐 Web Application Security
-* 🧪 Security Testing
-* 🐧 Linux & Kali Linux
-* 🔎 Vulnerability Analysis
-* 🌐 Network Security
-* 📱 Mobile Application Security
-* 🛠️ Ethical Hacking Labs
-* 📊 Security Monitoring
+| Area                      | Focus                                         |
+| ------------------------- | --------------------------------------------- |
+| 🌐 Web Security           | Web Application Security                      |
+| 🔎 Vulnerability Analysis | Identifying and understanding vulnerabilities |
+| 🧪 Security Testing       | Controlled security testing                   |
+| 🐧 Linux                  | Linux & Kali Linux                            |
+| 🌐 Network Security       | Network analysis and monitoring               |
+| 📱 Mobile Security        | Android application security                  |
+| 🛠️ Ethical Hacking       | Controlled security laboratories              |
+| 📊 Security Monitoring    | Detection and analysis                        |
 
-> My goal is to continue building controlled laboratories and practical projects to understand vulnerabilities, security testing and defensive techniques.
+> My goal is to continue building controlled laboratories and practical projects to better understand vulnerabilities, security testing and defensive techniques.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛡️ Cybersecurity Laboratory
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A web platform for learning and practicing cybersecurity through controlled and simulated security laboratories.
+## 🛡️ Cybersecurity Laboratory
 
-**Features:**
+Web platform for learning and practicing cybersecurity through controlled and simulated laboratories.
+
+### Features
 
 * 👤 User management
 * 🧪 Security laboratories
@@ -115,15 +131,19 @@ A web platform for learning and practicing cybersecurity through controlled and 
 * 📄 Automatic reports
 * 🎯 Progress tracking
 
-**Technologies:** `Angular` `Java` `SQL` `Docker`
+**Stack**
 
----
+`Angular` `Java` `SQL` `Docker`
 
-### 📷 Security Camera & Network Quotation System
+</td>
 
-A system for managing technology products, security cameras, networking equipment and generating professional quotations.
+<td width="50%" valign="top">
 
-**Features:**
+## 📷 Security Camera & Network Quotation System
+
+Technology quotation platform focused on security cameras, networking equipment and electronic products.
+
+### Features
 
 * 📦 Product catalog
 * 📷 Security cameras
@@ -133,15 +153,21 @@ A system for managing technology products, security cameras, networking equipmen
 * 🧾 Quotation generation
 * 📊 Dashboard
 
-**Technologies:** `Angular` `TypeScript` `Java` `SQL`
+**Stack**
 
----
+`Angular` `TypeScript` `Java` `SQL`
 
-### 🌆 Smart City 3D
+</td>
+</tr>
 
-An interactive 3D smart-city project focused on visualization, monitoring and technological infrastructure.
+<tr>
+<td width="50%" valign="top">
 
-**Concepts:**
+## 🌆 Smart City 3D
+
+Interactive 3D smart-city project focused on visualization, monitoring and technological infrastructure.
+
+### Concepts
 
 * 🚦 Traffic monitoring
 * 💡 Smart lighting
@@ -150,15 +176,19 @@ An interactive 3D smart-city project focused on visualization, monitoring and te
 * 🌐 Network infrastructure
 * 📊 Real-time monitoring
 
-**Technologies:** `JavaScript` `3D` `Web`
+**Stack**
 
----
+`JavaScript` `3D` `Web`
 
-### 🛒 Technology Store
+</td>
 
-An e-commerce platform focused on security cameras, networking equipment and electronic products.
+<td width="50%" valign="top">
 
-**Features:**
+## 🛒 Technology Store
+
+E-commerce platform focused on security cameras, networking equipment and electronic products.
+
+### Features
 
 * 📷 Security cameras
 * 🌐 Networking equipment
@@ -167,11 +197,17 @@ An e-commerce platform focused on security cameras, networking equipment and ele
 * 📡 Connectivity equipment
 * 🛍️ Online catalog
 
-**Technologies:** `Angular` `TypeScript` `SQL`
+**Stack**
+
+`Angular` `TypeScript` `SQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -189,12 +225,12 @@ width="48%"
 
 ---
 
-# 📈 Development Activity — 2026
+# 📈 Development Activity
 
 <p align="center">
 
 <img
-src="https://ghstats.dev/api/card?username=BAZTP&theme=midnight&show_icons=true&show_ring=true&hide_border=true&custom_title=2026%20Development%20Activity"
+src="https://ghstats.dev/api/card?username=BAZTP&theme=midnight&show_icons=true&show_ring=true&hide_border=true&custom_title=Development%20Activity"
 width="75%"
 />
 
@@ -216,7 +252,7 @@ width="95%"
 <p align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=BAZTP&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com/?user=BAZTP&theme=tokyonight&hide_border=true"
 width="70%"
 />
 
@@ -237,7 +273,7 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# 📈 Development Journey
+# 📚 Development Journey
 
 | Area                       | Focus                                     |
 | -------------------------- | ----------------------------------------- |
@@ -253,45 +289,43 @@ alt="GitHub Contribution Snake"
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 <p align="center">
 
-![Angular](https://img.shields.io/badge/Angular-Learning-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+<img src="https://img.shields.io/badge/Angular-Learning-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-![Microservices](https://img.shields.io/badge/Microservices-Learning-6C63FF?style=for-the-badge)
+<img src="https://img.shields.io/badge/Microservices-Learning-6C63FF?style=for-the-badge"/>
 
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-![Cloud](https://img.shields.io/badge/Cloud-Learning-4285F4?style=for-the-badge\&logo=icloud\&logoColor=white)
+<img src="https://img.shields.io/badge/Cloud-Learning-4285F4?style=for-the-badge&logo=icloud&logoColor=white"/>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-111827?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-```text
-🚀 Build production-ready software projects
+<table align="center">
+<tr>
+<td align="center">🚀<br><b>Software</b><br>Build production-ready projects</td>
+<td align="center">🛡️<br><b>Security</b><br>Improve cybersecurity knowledge</td>
+<td align="center">☁️<br><b>Cloud</b><br>Learn cloud technologies</td>
+</tr>
 
-🛡️ Improve cybersecurity knowledge
-
-☁️ Learn cloud technologies
-
-🧩 Improve software architecture
-
-🌐 Build better infrastructure projects
-
-🤝 Contribute to Open Source
-
-📚 Continue learning new technologies
-```
+<tr>
+<td align="center">🧩<br><b>Architecture</b><br>Improve software architecture</td>
+<td align="center">🌐<br><b>Infrastructure</b><br>Build better infrastructure projects</td>
+<td align="center">🤝<br><b>Open Source</b><br>Contribute to open source</td>
+</tr>
+</table>
 
 ---
 
-## 💡 What I Like Building
+# 💡 What I Like Building
 
 <p align="center">
 
@@ -319,13 +353,13 @@ alt="GitHub Contribution Snake"
 
 ---
 
-## 📚 Learning Philosophy
+# 🧠 Learning Philosophy
 
 <p align="center">
 
-### 🚀 Build. Learn. Secure. Repeat.
+## 🚀 Build. Learn. Secure. Repeat.
 
-<i>"Build it. Break it. Understand it. Improve it."</i>
+### <i>"Build it. Break it. Understand it. Improve it."</i>
 
 </p>
 
@@ -333,16 +367,16 @@ I believe the best way to learn technology is by building real projects, experim
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/BAZTP">
-<img src="https://img.shields.io/badge/GitHub-BAZTP-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-BAZTP-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
