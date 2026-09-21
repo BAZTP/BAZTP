@@ -244,19 +244,6 @@ E-commerce platform focused on security cameras, networking equipment and electr
 
 ---
 
-# 📈 Development Activity
-
-<p align="center">
-
-<img src="https://ghstats.dev/api/card?username=BAZTP&theme=midnight&show_icons=true&show_ring=true&hide_border=true&custom_title=Development%20Activity" width="75%">
-
-</p>
-
-<p align="center">
-
-<img src="https://ghstats.dev/api/sparkline?username=BAZTP&theme=tokyonight&hide_border=true" width="95%">
-
-</p>
 
 ---
 
