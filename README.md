@@ -253,9 +253,21 @@ E-commerce platform focused on security cameras, networking equipment and electr
 ## 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    >
+  </picture>
 </p>
 
 ## 📚 Development Journey
@@ -363,8 +375,8 @@ I'm interested in collaborating on projects related to:
 <img src="https://img.shields.io/badge/GitHub-BAZTP-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/bryan-zambrano-887340315">
+<img src="https://img.shields.io/badge/LinkedIn-Bryan%20Zambrano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
