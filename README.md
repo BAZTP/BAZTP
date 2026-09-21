@@ -22,6 +22,8 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Development;Cybersecurity+%26+Ethical+Hacking;Networks+%26+Infrastructure;Monitoring+%26+Automation;Cloud+%26+DevOps;Always+Learning+%26+Building">
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
 I'm a **Computer Science Engineer** passionate about technology, software development, cybersecurity, networks and infrastructure.
@@ -38,7 +40,9 @@ I enjoy creating practical projects, learning new technologies and solving real-
 * 📊 Creating monitoring and automation solutions
 * 🚀 Continuously learning through practical projects
 
-## 🛠️ Technologies & Tools
+---
+
+# 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
 
@@ -64,7 +68,9 @@ I enjoy creating practical projects, learning new technologies and solving real-
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio">
 </p>
 
-## 🏗️ Software Architecture
+---
+
+# 🏗️ Software Architecture
 
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge">
@@ -86,7 +92,9 @@ Interested in building maintainable and scalable applications using modern softw
 * 📦 Modular Applications
 * 🧪 Testing and Code Quality
 
-## 🛡️ Cybersecurity
+---
+
+# 🛡️ Cybersecurity
 
 I'm interested in cybersecurity through controlled laboratories, security testing and defensive analysis.
 
@@ -103,7 +111,9 @@ I'm interested in cybersecurity through controlled laboratories, security testin
 
 > My goal is to continue building controlled laboratories and practical projects to better understand vulnerabilities, security testing and defensive techniques.
 
-## 🌐 Infrastructure & Networking
+---
+
+# 🌐 Infrastructure & Networking
 
 ### Areas of Interest
 
@@ -116,7 +126,9 @@ I'm interested in cybersecurity through controlled laboratories, security testin
 * 🐳 Containerization
 * 🔄 System Troubleshooting
 
-## 🚀 Featured Projects
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -218,7 +230,9 @@ E-commerce platform focused on security cameras, networking equipment and electr
 </tr>
 </table>
 
-## 📊 GitHub Statistics
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -228,7 +242,9 @@ E-commerce platform focused on security cameras, networking equipment and electr
 
 </p>
 
-## 📈 Development Activity
+---
+
+# 📈 Development Activity
 
 <p align="center">
 
@@ -242,7 +258,9 @@ E-commerce platform focused on security cameras, networking equipment and electr
 
 </p>
 
-## 🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -250,56 +268,70 @@ E-commerce platform focused on security cameras, networking equipment and electr
 
 </p>
 
-## 🐍 Contribution Graph
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
+
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake-dark.svg"
     >
+
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake.svg"
     >
+
     <img
       src="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake.svg"
       alt="GitHub Contribution Snake"
       width="100%"
     >
+
   </picture>
+
 </p>
 
-## 📚 Development Journey
+---
 
-| Area                       | Focus                                     |
-| -------------------------- | ----------------------------------------- |
-| 💻 Software Development    | Java · Python · C#                        |
-| 🌐 Web Development         | Angular · JavaScript · TypeScript         |
-| 🛡️ Cybersecurity          | Security Testing · Vulnerability Analysis |
-| 🌐 Networks                | Networking · Monitoring                   |
-| 🖥️ Infrastructure         | Systems · Support · Monitoring            |
-| 🗄️ Databases              | SQL · MySQL · PostgreSQL                  |
-| 🐳 DevOps                  | Git · GitHub · Docker                     |
-| ☁️ Cloud                   | Currently Learning                        |
-| 🤖 Artificial Intelligence | Exploring                                 |
+# 📚 Development Journey
 
-## 🧰 Development Environment
+| Area | Focus |
+|---|---|
+| 💻 Software Development | Java · Python · C# |
+| 🌐 Web Development | Angular · JavaScript · TypeScript |
+| 🛡️ Cybersecurity | Security Testing · Vulnerability Analysis |
+| 🌐 Networks | Networking · Monitoring |
+| 🖥️ Infrastructure | Systems · Support · Monitoring |
+| 🗄️ Databases | SQL · MySQL · PostgreSQL |
+| 🐳 DevOps | Git · GitHub · Docker |
+| ☁️ Cloud | Currently Learning |
+| 🤖 Artificial Intelligence | Exploring |
 
-| Category             | Tools                                          |
-| -------------------- | ---------------------------------------------- |
-| 💻 IDE               | VS Code · Visual Studio · Android Studio       |
-| 🔧 Version Control   | Git · GitHub                                   |
-| 🐳 Containers        | Docker                                         |
-| 🐧 Operating Systems | Windows · Linux · Kali Linux                   |
-| 🗄️ Databases        | SQL Server · MySQL · PostgreSQL                |
-| 🌐 Web               | Angular · HTML · CSS · JavaScript · TypeScript |
-| ☕ Backend            | Java · Python · C#                             |
-| 📱 Mobile            | Android                                        |
-| 🛡️ Security         | Kali Linux · Security Testing                  |
-| 📊 Monitoring        | System and Network Monitoring                  |
+---
 
-## 🌱 Currently Learning
+# 🧰 Development Environment
+
+| Category | Tools |
+|---|---|
+| 💻 IDE | VS Code · Visual Studio · Android Studio |
+| 🔧 Version Control | Git · GitHub |
+| 🐳 Containers | Docker |
+| 🐧 Operating Systems | Windows · Linux · Kali Linux |
+| 🗄️ Databases | SQL Server · MySQL · PostgreSQL |
+| 🌐 Web | Angular · HTML · CSS · JavaScript · TypeScript |
+| ☕ Backend | Java · Python · C# |
+| 📱 Mobile | Android |
+| 🛡️ Security | Kali Linux · Security Testing |
+| 📊 Monitoring | System and Network Monitoring |
+
+---
+
+# 🌱 Currently Learning
 
 <p align="center">
 
@@ -315,31 +347,80 @@ E-commerce platform focused on security cameras, networking equipment and electr
 
 </p>
 
-## 🎯 2026 Goals
+---
+
+# 🎯 2026 Goals
 
 <table align="center">
+
 <tr>
-<td align="center">🚀<br><b>Software</b><br>Build production-ready projects</td>
-<td align="center">🛡️<br><b>Security</b><br>Improve cybersecurity knowledge</td>
-<td align="center">☁️<br><b>Cloud</b><br>Learn cloud technologies</td>
+
+<td align="center">
+🚀<br>
+<b>Software</b><br>
+Build production-ready projects
+</td>
+
+<td align="center">
+🛡️<br>
+<b>Security</b><br>
+Improve cybersecurity knowledge
+</td>
+
+<td align="center">
+☁️<br>
+<b>Cloud</b><br>
+Learn cloud technologies
+</td>
+
 </tr>
 
 <tr>
-<td align="center">🧩<br><b>Architecture</b><br>Improve software architecture</td>
-<td align="center">🌐<br><b>Infrastructure</b><br>Build better infrastructure projects</td>
-<td align="center">🤝<br><b>Open Source</b><br>Contribute to open source</td>
+
+<td align="center">
+🧩<br>
+<b>Architecture</b><br>
+Improve software architecture
+</td>
+
+<td align="center">
+🌐<br>
+<b>Infrastructure</b><br>
+Build better infrastructure projects
+</td>
+
+<td align="center">
+🤝<br>
+<b>Open Source</b><br>
+Contribute to open source
+</td>
+
 </tr>
+
 </table>
 
-## 💡 What I Like Building
+---
+
+# 💡 What I Like Building
 
 <p align="center">
 
-<code>🌐 Web Applications</code> <code>📱 Mobile Applications</code> <code>🖥️ Desktop Applications</code> <code>🛡️ Cybersecurity Labs</code> <code>📊 Monitoring Systems</code> <code>🌐 Network Tools</code> <code>📷 Security Camera Systems</code> <code>🛒 E-Commerce</code> <code>🤖 Automation</code> <code>🌆 Smart City</code>
+<code>🌐 Web Applications</code>
+<code>📱 Mobile Applications</code>
+<code>🖥️ Desktop Applications</code>
+<code>🛡️ Cybersecurity Labs</code>
+<code>📊 Monitoring Systems</code>
+<code>🌐 Network Tools</code>
+<code>📷 Security Camera Systems</code>
+<code>🛒 E-Commerce</code>
+<code>🤖 Automation</code>
+<code>🌆 Smart City</code>
 
 </p>
 
-## 🧠 Learning Philosophy
+---
+
+# 🧠 Learning Philosophy
 
 <p align="center">
 
@@ -351,7 +432,9 @@ E-commerce platform focused on security cameras, networking equipment and electr
 
 I believe the best way to learn technology is by building real projects, experimenting with different solutions and continuously improving.
 
-## 🤝 Open Source & Collaboration
+---
+
+# 🤝 Open Source & Collaboration
 
 I'm interested in collaborating on projects related to:
 
@@ -367,7 +450,9 @@ I'm interested in collaborating on projects related to:
 <b>Always open to learning, building and collaborating.</b>
 </p>
 
-## 📫 Connect With Me
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -385,6 +470,10 @@ I'm interested in collaborating on projects related to:
 <i>💻 Software • 🛡️ Security • 🌐 Infrastructure • 🚀 Innovation</i>
 </p>
 
+---
+
 <p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:020617&height=130&section=footer" width="100%">
+
 </p>
