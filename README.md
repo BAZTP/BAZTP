@@ -238,7 +238,6 @@ E-commerce platform focused on security cameras, networking equipment and electr
 
 <img src="https://ghstats.dev/api/card?username=BAZTP&theme=tokyonight&show_icons=true&show_ring=true&hide_border=true&custom_title=Bryan%27s%20GitHub%20Stats" width="48%">
 
-<img src="https://ghstats.dev/api/languages?username=BAZTP&theme=tokyonight&layout=donut&max_langs=8&hide_border=true" width="48%">
 
 </p>
 
