@@ -1,44 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:020617&height=220&section=header&text=BRYAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Software%20%7C%20Cybersecurity%20%7C%20Infrastructure&descAlignY=60&descSize=18" width="100%">
+  <img src="./profile-terminal.svg" width="100%" alt="Bryan profile terminal">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BAZTP&label=Profile%20Views&color=2563eb&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=BAZTP&label=Profile%20Views&color=7c3aed&style=for-the-badge">
   <img src="https://img.shields.io/github/followers/BAZTP?style=for-the-badge&logo=github&label=Followers">
   <img src="https://img.shields.io/github/stars/BAZTP?style=for-the-badge&logo=github&label=Stars">
 </p>
 
 <h1 align="center">👋 Hi, I'm Bryan</h1>
 
-<h3 align="center">
-  💻 Computer Science Engineer
-</h3>
-
 <p align="center">
+  <b>Computer Science Engineer</b><br>
   Software Development • Cybersecurity • Networks • Infrastructure
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Development;Cybersecurity+%26+Ethical+Hacking;Networks+%26+Infrastructure;Monitoring+%26+Automation;Cloud+%26+DevOps;Always+Learning+%26+Building">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Development;Cybersecurity+%26+Ethical+Hacking;Networks+%26+Infrastructure;Monitoring+%26+Automation;Cloud+%26+DevOps;Always+Learning+%26+Building">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineer** passionate about technology, software development, cybersecurity, networks and infrastructure.
+I'm a **Computer Science Engineer** interested in software development, cybersecurity, networks and infrastructure.
 
-I enjoy creating practical projects, learning new technologies and solving real-world problems through technology.
+I enjoy building practical projects, experimenting with technologies and solving real-world problems through software and IT.
 
 ### 🚀 What I'm Focused On
 
-* 🔭 Building software and technology projects
-* 🌱 Learning Angular, Microservices, Docker and Cloud Computing
-* 💻 Developing applications with Java, Python and C#
-* 🛡️ Exploring Cybersecurity and Ethical Hacking
-* 🌐 Learning about Networks, Infrastructure and Monitoring
-* 📊 Creating monitoring and automation solutions
-* 🚀 Continuously learning through practical projects
+- 🔭 Building software and technology projects
+- 🌱 Learning Angular, Microservices, Docker and Cloud Computing
+- 💻 Developing applications with Java, Python and C#
+- 🛡️ Exploring Cybersecurity and Ethical Hacking
+- 🌐 Learning Networks, Infrastructure and Monitoring
+- 📊 Creating monitoring and automation solutions
+- 🚀 Continuously learning through practical projects
 
 ---
 
@@ -73,7 +70,7 @@ I enjoy creating practical projects, learning new technologies and solving real-
 # 🏗️ Software Architecture
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Microservices-6C63FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/SOLID-111827?style=for-the-badge">
   <img src="https://img.shields.io/badge/DDD-7C3AED?style=for-the-badge">
@@ -82,15 +79,13 @@ I enjoy creating practical projects, learning new technologies and solving real-
 
 Interested in building maintainable and scalable applications using modern software engineering principles.
 
-### 🔧 Concepts
-
-* 🧩 SOLID Principles
-* 🏗️ MVC Architecture
-* 🌐 REST APIs
-* 🔄 Microservices
-* 🧠 Domain-Driven Design
-* 📦 Modular Applications
-* 🧪 Testing and Code Quality
+- 🧩 SOLID Principles
+- 🏗️ MVC Architecture
+- 🌐 REST APIs
+- 🔄 Microservices
+- 🧠 Domain-Driven Design
+- 📦 Modular Applications
+- 🧪 Testing and Code Quality
 
 ---
 
@@ -98,16 +93,14 @@ Interested in building maintainable and scalable applications using modern softw
 
 I'm interested in cybersecurity through controlled laboratories, security testing and defensive analysis.
 
-### 🔐 Areas of Interest
-
-* 🔎 Vulnerability Analysis
-* 🧪 Security Testing
-* 🐧 Linux and Kali Linux
-* 🌐 Network Security
-* 📱 Mobile Application Security
-* 🛠️ Ethical Hacking Labs
-* 📊 Security Monitoring
-* 🔐 Web Application Security
+- 🔎 Vulnerability Analysis
+- 🧪 Security Testing
+- 🐧 Linux and Kali Linux
+- 🌐 Network Security
+- 📱 Mobile Application Security
+- 🛠️ Ethical Hacking Labs
+- 📊 Security Monitoring
+- 🔐 Web Application Security
 
 > My goal is to continue building controlled laboratories and practical projects to better understand vulnerabilities, security testing and defensive techniques.
 
@@ -115,16 +108,14 @@ I'm interested in cybersecurity through controlled laboratories, security testin
 
 # 🌐 Infrastructure & Networking
 
-### Areas of Interest
-
-* 🌐 Network Configuration
-* 📡 Wireless Networks
-* 🖥️ Infrastructure Management
-* 📊 Network Monitoring
-* 🔐 Network Security
-* 🐧 Linux Systems
-* 🐳 Containerization
-* 🔄 System Troubleshooting
+- 🌐 Network Configuration
+- 📡 Wireless Networks
+- 🖥️ Infrastructure Management
+- 📊 Network Monitoring
+- 🔐 Network Security
+- 🐧 Linux Systems
+- 🐳 Containerization
+- 🔄 System Troubleshooting
 
 ---
 
@@ -188,8 +179,6 @@ Technology quotation platform focused on security cameras, networking equipment 
 
 Interactive 3D smart-city project focused on visualization, monitoring and technological infrastructure.
 
-<b>Concepts</b>
-
 <ul>
 <li>Traffic monitoring</li>
 <li>Smart lighting</li>
@@ -210,8 +199,6 @@ Interactive 3D smart-city project focused on visualization, monitoring and techn
 <h3>🛒 Technology Store</h3>
 
 E-commerce platform focused on security cameras, networking equipment and electronic products.
-
-<b>Features</b>
 
 <ul>
 <li>Security cameras</li>
@@ -235,43 +222,24 @@ E-commerce platform focused on security cameras, networking equipment and electr
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://ghstats.dev/api/card?username=BAZTP&theme=tokyonight&show_icons=true&show_ring=true&hide_border=true&custom_title=Bryan%27s%20GitHub%20Stats" width="48%">
-
-
+  <img src="https://ghstats.dev/api/card?username=BAZTP&theme=tokyonight&show_icons=true&show_ring=true&hide_border=true&custom_title=Bryan%27s%20GitHub%20Stats" width="48%">
 </p>
-
----
-
-
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=BAZTP&theme=tokyonight&hide_border=true" width="70%">
-
+  <img src="https://streak-stats.demolab.com/?user=BAZTP&theme=tokyonight&hide_border=true" width="70%">
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake.svg"
-    >
-    <img
-      src="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/BAZTP/BAZTP/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
   </picture>
 </p>
 
@@ -313,17 +281,11 @@ E-commerce platform focused on security cameras, networking equipment and electr
 # 🌱 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Angular-Learning-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-
-<img src="https://img.shields.io/badge/Microservices-Learning-6C63FF?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-<img src="https://img.shields.io/badge/Cloud-Learning-4285F4?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-111827?style=for-the-badge">
-
+  <img src="https://img.shields.io/badge/Angular-Learning-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Microservices-Learning-6C63FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-Learning-4285F4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-111827?style=for-the-badge">
 </p>
 
 ---
@@ -331,51 +293,16 @@ E-commerce platform focused on security cameras, networking equipment and electr
 # 🎯 2026 Goals
 
 <table align="center">
-
 <tr>
-
-<td align="center">
-🚀<br>
-<b>Software</b><br>
-Build production-ready projects
-</td>
-
-<td align="center">
-🛡️<br>
-<b>Security</b><br>
-Improve cybersecurity knowledge
-</td>
-
-<td align="center">
-☁️<br>
-<b>Cloud</b><br>
-Learn cloud technologies
-</td>
-
+<td align="center">🚀<br><b>Software</b><br>Build production-ready projects</td>
+<td align="center">🛡️<br><b>Security</b><br>Improve cybersecurity knowledge</td>
+<td align="center">☁️<br><b>Cloud</b><br>Learn cloud technologies</td>
 </tr>
-
 <tr>
-
-<td align="center">
-🧩<br>
-<b>Architecture</b><br>
-Improve software architecture
-</td>
-
-<td align="center">
-🌐<br>
-<b>Infrastructure</b><br>
-Build better infrastructure projects
-</td>
-
-<td align="center">
-🤝<br>
-<b>Open Source</b><br>
-Contribute to open source
-</td>
-
+<td align="center">🧩<br><b>Architecture</b><br>Improve software architecture</td>
+<td align="center">🌐<br><b>Infrastructure</b><br>Build better infrastructure projects</td>
+<td align="center">🤝<br><b>Open Source</b><br>Contribute to open source</td>
 </tr>
-
 </table>
 
 ---
@@ -383,18 +310,16 @@ Contribute to open source
 # 💡 What I Like Building
 
 <p align="center">
-
-<code>🌐 Web Applications</code>
-<code>📱 Mobile Applications</code>
-<code>🖥️ Desktop Applications</code>
-<code>🛡️ Cybersecurity Labs</code>
-<code>📊 Monitoring Systems</code>
-<code>🌐 Network Tools</code>
-<code>📷 Security Camera Systems</code>
-<code>🛒 E-Commerce</code>
-<code>🤖 Automation</code>
-<code>🌆 Smart City</code>
-
+  <code>🌐 Web Applications</code>
+  <code>📱 Mobile Applications</code>
+  <code>🖥️ Desktop Applications</code>
+  <code>🛡️ Cybersecurity Labs</code>
+  <code>📊 Monitoring Systems</code>
+  <code>🌐 Network Tools</code>
+  <code>📷 Security Camera Systems</code>
+  <code>🛒 E-Commerce</code>
+  <code>🤖 Automation</code>
+  <code>🌆 Smart City</code>
 </p>
 
 ---
@@ -402,11 +327,8 @@ Contribute to open source
 # 🧠 Learning Philosophy
 
 <p align="center">
-
-<h3>🚀 Build. Learn. Secure. Repeat.</h3>
-
-<i>Build it. Break it. Understand it. Improve it.</i>
-
+  <h3>🚀 Build. Learn. Secure. Repeat.</h3>
+  <i>Build it. Break it. Understand it. Improve it.</i>
 </p>
 
 I believe the best way to learn technology is by building real projects, experimenting with different solutions and continuously improving.
@@ -417,16 +339,16 @@ I believe the best way to learn technology is by building real projects, experim
 
 I'm interested in collaborating on projects related to:
 
-* 💻 Software Development
-* 🛡️ Cybersecurity
-* 🌐 Networks and Infrastructure
-* 📊 Monitoring and Automation
-* ☁️ Cloud Technologies
-* 🤖 Artificial Intelligence
-* 🚀 Open Source Projects
+- 💻 Software Development
+- 🛡️ Cybersecurity
+- 🌐 Networks and Infrastructure
+- 📊 Monitoring and Automation
+- ☁️ Cloud Technologies
+- 🤖 Artificial Intelligence
+- 🚀 Open Source Projects
 
 <p align="center">
-<b>Always open to learning, building and collaborating.</b>
+  <b>Always open to learning, building and collaborating.</b>
 </p>
 
 ---
@@ -434,25 +356,18 @@ I'm interested in collaborating on projects related to:
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/BAZTP">
-<img src="https://img.shields.io/badge/GitHub-BAZTP-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/bryan-zambrano-887340315">
-<img src="https://img.shields.io/badge/LinkedIn-Bryan%20Zambrano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+  <a href="https://github.com/BAZTP">
+    <img src="https://img.shields.io/badge/GitHub-BAZTP-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/bryan-zambrano-887340315">
+    <img src="https://img.shields.io/badge/LinkedIn-Bryan%20Zambrano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-<i>💻 Software • 🛡️ Security • 🌐 Infrastructure • 🚀 Innovation</i>
+  <i>💻 Software • 🛡️ Security • 🌐 Infrastructure • 🚀 Innovation</i>
 </p>
 
----
-
 <p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:020617&height=130&section=footer" width="100%">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:020617&height=130&section=footer" width="100%">
 </p>
