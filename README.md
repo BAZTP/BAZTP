@@ -2,11 +2,6 @@
   <img src="./profile-terminal.svg" width="100%" alt="Bryan profile terminal">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BAZTP&label=Profile%20Views&color=7c3aed&style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/BAZTP?style=for-the-badge&logo=github&label=Followers">
-  <img src="https://img.shields.io/github/stars/BAZTP?style=for-the-badge&logo=github&label=Stars">
-</p>
 
 <!-- ====================================================== -->
 <!-- ORIGINAL INTRO DESIGN -->
